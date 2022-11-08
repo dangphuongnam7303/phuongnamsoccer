@@ -1,0 +1,26 @@
+.layout{
+    width: 1440px;
+    margin: 0 auto;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+main{
+    display: flex;
+
+}
+aside{
+    width: 25%;
+    float: left;
+    border: 1px solid black;
+}
+article{
+    width: 75%;
+    float: right;
+    border: 1px solid black;
+}
+article{
+    text-align: center;
+}
