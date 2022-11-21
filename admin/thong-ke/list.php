@@ -2,7 +2,7 @@
 <html>
     <head>
     <link rel="stylesheet" href="../../content/css/table.css">
-
+    
     </head>
     <body>
         <h3>THỐNG KÊ HÀNG HÓA TỪNG LOẠI</h3>
