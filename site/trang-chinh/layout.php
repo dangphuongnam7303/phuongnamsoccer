@@ -87,7 +87,7 @@ require_once '/xampp/htdocs/DAM_FALL2022/dao/pdo.php';
         <div class="layout" id="layout">
             <header>
                 <div class="header-name">
-                    <a href="<?= $SITE_URL ?>/trang-chinh/index.php"><img width="72" height="72" src="../../content/images/users/DPN-100.jpg" alt="">Phuong Nam SPORT </a>
+                    <a href="<?= $SITE_URL ?>/trang-chinh/index.php"><img width="72" height="72" src="../../content/images/users/DPN-100.jpg" alt=""> tên hãng SPORT </a>
                 </div>
                 <div class="header-menu">
                     <?php require_once '../layout/menu.php'; ?>
@@ -229,7 +229,8 @@ require_once '/xampp/htdocs/DAM_FALL2022/dao/pdo.php';
                                     <i class="fa-regular fa-envelope"></i>
                                 </td>
                                 <td>
-                                    <a class="a-contact" href="mailto:phuongnam7303@gmail.com">phuongnam7303@gmail.com</a>
+                                    <a class="a-contact" href="mailto:phuongnam7303@gmail.com">email</a> 
+                                    
                                 </td>
                             </tr>
 
@@ -239,7 +240,7 @@ require_once '/xampp/htdocs/DAM_FALL2022/dao/pdo.php';
 
                                 </td>
                                 <td>
-                                    <a class="a-contact" href="https://www.facebook.com/DangPhuongNam733">Đặng Phương Nam</a>
+                                    <a class="a-contact" href="https://www.facebook.com/DangPhuongNam733">Facebook</a>
                                 </td>
                             </tr>
 
@@ -248,7 +249,7 @@ require_once '/xampp/htdocs/DAM_FALL2022/dao/pdo.php';
                                     <i class="fa-brands fa-instagram"></i>
                                 </td>
                                 <td>
-                                    <a class="a-contact" href="https://www.instagram.com/phuongnam_0703/">Đặng Phương Nam</a>
+                                    <a class="a-contact" href="https://www.instagram.com/phuongnam_0703/">Instagram</a>
                                 </td>
                             </tr>
                         </tbody>
